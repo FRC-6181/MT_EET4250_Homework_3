@@ -1,0 +1,52 @@
+INFO:2021-04-20 00:50:00.8457:ConnectionTest.Program.Main:Testing Connection
+INFO:2021-04-20 00:50:44.1314:ConnectionTest.Program.Main:Testing Connection
+INFO:2021-04-20 00:52:08.7222:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-20 00:52:09.4465:ConnectionTest.Program.Main(Program.cs:15):Connected
+DEBUG:2021-04-20 00:52:13.0970:ConnectionTest.Program.Main(Program.cs:16):Creating Table Called: feds_merge_VS
+DEBUG:2021-04-20 00:52:13.1127:ConnectionTest.Program.Main(Program.cs:16):Creation of feds_merge_VS, Complete!!
+DEBUG:2021-04-20 00:52:13.1223:ConnectionTest.Program.Main(Program.cs:17):Loading Data, Please Wait...
+DEBUG:2021-04-20 00:52:13.1223:ConnectionTest.Program.Main(Program.cs:17):Completed Data Load!!
+DEBUG:2021-04-20 00:52:13.1326:ConnectionTest.Program.Main(Program.cs:18):Beginning Merge of feds2
+DEBUG:2021-04-20 00:52:13.1326:ConnectionTest.Program.Main(Program.cs:18):Merging of feds2, Complete!!
+DEBUG:2021-04-20 00:52:13.1326:ConnectionTest.Program.Main(Program.cs:19):Beginning Merge of feds3
+DEBUG:2021-04-20 00:52:13.1326:ConnectionTest.Program.Main(Program.cs:19):Merging of feds3, Complete!!
+INFO:2021-04-20 00:52:13.1326:ConnectionTest.Program.Main:Completed Successfully
+INFO:2021-04-20 00:52:17.6411:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-20 00:52:18.1630:ConnectionTest.Program.Main(Program.cs:15):Connected
+INFO:2021-04-20 00:52:36.7106:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-20 00:52:37.2025:ConnectionTest.Program.Main(Program.cs:15):Connected
+DEBUG:2021-04-20 00:52:37.2131:ConnectionTest.Program.Main(Program.cs:16):Creating Table Called: feds_merge_VS
+DEBUG:2021-04-20 00:52:37.2131:ConnectionTest.Program.Main(Program.cs:16):Creation of feds_merge_VS, Complete!!
+DEBUG:2021-04-20 00:52:37.2279:ConnectionTest.Program.Main(Program.cs:17):Loading Data, Please Wait...
+DEBUG:2021-04-20 00:52:37.2279:ConnectionTest.Program.Main(Program.cs:17):Completed Data Load!!
+DEBUG:2021-04-20 00:52:37.2279:ConnectionTest.Program.Main(Program.cs:18):Beginning Merge of feds2
+DEBUG:2021-04-20 00:52:37.2418:ConnectionTest.Program.Main(Program.cs:18):Merging of feds2, Complete!!
+DEBUG:2021-04-20 00:52:37.2418:ConnectionTest.Program.Main(Program.cs:19):Beginning Merge of feds3
+DEBUG:2021-04-20 00:52:37.2418:ConnectionTest.Program.Main(Program.cs:19):Merging of feds3, Complete!!
+INFO:2021-04-20 00:52:37.2418:ConnectionTest.Program.Main:Completed Successfully
+INFO:2021-04-20 00:53:20.0267:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-20 00:53:20.5485:ConnectionTest.Program.Main(Program.cs:15):Connected
+DEBUG:2021-04-20 00:53:20.5730:ConnectionTest.Program.Main(Program.cs:16):Creating Table Called: feds_merge_VS
+DEBUG:2021-04-20 00:53:20.5870:ConnectionTest.Program.Main(Program.cs:16):Creation of feds_merge_VS, Complete!!
+DEBUG:2021-04-20 00:53:20.5870:ConnectionTest.Program.Main(Program.cs:17):Loading Data, Please Wait...
+DEBUG:2021-04-20 00:53:20.5870:ConnectionTest.Program.Main(Program.cs:17):Completed Data Load!!
+DEBUG:2021-04-20 00:53:20.5870:ConnectionTest.Program.Main(Program.cs:18):Beginning Merge of feds2
+DEBUG:2021-04-20 00:53:20.5870:ConnectionTest.Program.Main(Program.cs:18):Merging of feds2, Complete!!
+DEBUG:2021-04-20 00:53:20.5870:ConnectionTest.Program.Main(Program.cs:19):Beginning Merge of feds3
+DEBUG:2021-04-20 00:53:20.6021:ConnectionTest.Program.Main(Program.cs:19):Merging of feds3, Complete!!
+INFO:2021-04-20 00:53:20.6021:ConnectionTest.Program.Main:Completed Successfully
+INFO:2021-04-20 00:56:07.3250:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-20 00:56:07.7757:ConnectionTest.Program.Main(Program.cs:15):Connected
+DEBUG:2021-04-20 00:56:07.7920:ConnectionTest.Program.Main(Program.cs:16):Creating Table Called: feds_merge_VS
+DEBUG:2021-04-20 00:56:07.8639:ConnectionTest.Program.Main(Program.cs:16):Rows Affected: -1
+DEBUG:2021-04-20 00:56:07.8726:ConnectionTest.Program.Main(Program.cs:16):Creation of feds_merge_VS, Complete!!
+DEBUG:2021-04-20 00:56:07.8726:ConnectionTest.Program.Main(Program.cs:17):Loading Data, Please Wait...
+DEBUG:2021-04-20 00:56:11.3311:ConnectionTest.Program.Main(Program.cs:17):Rows Affected: 397040
+DEBUG:2021-04-20 00:56:11.3311:ConnectionTest.Program.Main(Program.cs:17):Completed Data Load!!
+DEBUG:2021-04-20 00:56:11.3361:ConnectionTest.Program.Main(Program.cs:18):Beginning Merge of feds2
+DEBUG:2021-04-20 00:56:19.1676:ConnectionTest.Program.Main(Program.cs:18):Rows Affected: 397040
+DEBUG:2021-04-20 00:56:19.1676:ConnectionTest.Program.Main(Program.cs:18):Merging of feds2, Complete!!
+DEBUG:2021-04-20 00:56:19.1676:ConnectionTest.Program.Main(Program.cs:19):Beginning Merge of feds3
+DEBUG:2021-04-20 00:56:26.9181:ConnectionTest.Program.Main(Program.cs:19):Rows Affected: 449671
+DEBUG:2021-04-20 00:56:26.9181:ConnectionTest.Program.Main(Program.cs:19):Merging of feds3, Complete!!
+INFO:2021-04-20 00:56:26.9181:ConnectionTest.Program.Main:Completed Successfully
